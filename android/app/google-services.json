@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52606566891",
+    "project_id": "lapoapp-44966",
+    "storage_bucket": "lapoapp-44966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52606566891:android:c39ee2258ab776146d59ae",
+        "android_client_info": {
+          "package_name": "com.example.lapo_rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-y83GWnEDHWUEd1Ko2HZTGaKy8nWYPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52606566891:android:f48cd61f6ba4051f6d59ae",
+        "android_client_info": {
+          "package_name": "com.example.lapo_try"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-y83GWnEDHWUEd1Ko2HZTGaKy8nWYPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
